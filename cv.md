@@ -13,3 +13,12 @@ About me
 * I love to gain new knowledge.
 * I am always on time for organized events, work-related or otherwise.
 * I take criticism well.
+---
+Skills
+-----------
+* HTML
+* CSS
+* JavaScript
+* Python
+* GIT
+---
