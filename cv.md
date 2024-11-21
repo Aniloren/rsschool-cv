@@ -22,6 +22,7 @@ Skills
 * JavaScript
 * Python
 * GIT
+* Figma, Photoshop
 ---
 Code examples
 -----------
