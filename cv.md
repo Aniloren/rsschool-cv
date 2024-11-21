@@ -6,6 +6,7 @@ Contacts
 * **Email:** egorsysoev695@gmail.com
 * **Phone:** +8-920-250-12-61
 * **Github:** aniloren
+* **Discord** aniloren
 ---
 About me
 -----------
