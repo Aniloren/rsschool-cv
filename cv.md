@@ -9,10 +9,10 @@ Contacts
 ---
 About me
 -----------
-* I am eager to learn new skills.
-* I love to gain new knowledge.
-* I am always on time for organized events, work-related or otherwise.
-* I take criticism well.
+* I am eager to learn new skills
+* I love to gain new knowledge
+* I am always on time for organized events, work-related or otherwise
+* I take criticism well
 ---
 Skills
 -----------
@@ -37,10 +37,11 @@ Nope
 ---
 Education
 -----------
-* Bachelor's Degree Lobachevskiy University (direction - applied informatics).
-* Intel python course.
-* SBER Data Scientist course.
+* Bachelor's Degree Lobachevskiy University (direction - applied informatics)
+* Intel python course
+* SBER Data Scientist course
 ---
-
-
-
+English language
+-----------
+Level A1
+---
