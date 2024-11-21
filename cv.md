@@ -35,7 +35,7 @@ function funcAdd (a, b) => {
 ---
 Work experience
 -----------
-[First try on Markdown](https://github.com/Aniloren/rsschool-cv/tree/gh-pages)
+##### [First try on Markdown](https://github.com/Aniloren/rsschool-cv/tree/gh-pages)
 ---
 Education
 -----------
