@@ -35,5 +35,12 @@ Work experience
 -----------
 Nope
 ---
+Education
+-----------
+* Bachelor's Degree Lobachevskiy University (direction - applied informatics).
+* Intel python course.
+* SBER Data Scientist course.
+---
+
 
 
