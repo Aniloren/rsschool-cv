@@ -22,3 +22,12 @@ Skills
 * Python
 * GIT
 ---
+Code examples
+-----------
+ A function that takes 2 numbers and adds them together
+```javascript
+function funcAdd (a, b) => {
+  return a + b;
+};
+```
+
